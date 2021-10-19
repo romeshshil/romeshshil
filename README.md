@@ -28,3 +28,5 @@ same time.
 
 ![romeshshil github stats](https://github-readme-stats.vercel.app/api?username=romeshshil&show_icons=true&hide_border=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=romeshshil&layout=compact)
+
+<a href="https://app.daily.dev/romeshshil99"><img src="https://api.daily.dev/devcards/f6d659fb81944b01bf4c187503b3e01b.png?r=sp9" width="400" alt="Romesh Shil's Dev Card"/></a>
